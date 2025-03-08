@@ -22,7 +22,7 @@ export default withMT({
     },
     extend: {
       colors: {
-        'sadia': '#FFFCF9',
+        'sadia': '#ffffff',
         'sadia-text': '#591A2B',
         'sadia-text-fucus': '#861b38',
         'dark-sadia': '#000000',
